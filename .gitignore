@@ -225,6 +225,6 @@ pip-log.txt
 target
 
 #############
-## Graddle
+## Gradle
 #############
-.graddle
+.gradle
