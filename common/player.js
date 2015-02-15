@@ -6,4 +6,4 @@ function Player(name, clazz, role) {
     this.role = role;
 }
 
-exports.module = Player;
+module.exports = Player;
